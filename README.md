@@ -50,7 +50,7 @@ This project provides a simple user authentication system with a login and sign-
 5. Start the server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 6. Open your browser and go to [http://localhost:3000](http://localhost:3000) to access the application.
@@ -97,6 +97,6 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:paturkarabhishek03@gmail.com).
+For any questions or feedback, please contact [paturkarabhishek03@gmail.com](mailto:paturkarabhishek03@gmail.com).
 
 Happy coding!
