@@ -19,13 +19,13 @@ This project provides a simple user authentication system with a login and sign-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/abhishekpaturkar/authentication-jsonwebtoken.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd Auth
    ```
 
 3. Install dependencies:
